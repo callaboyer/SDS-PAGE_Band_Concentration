@@ -1,6 +1,5 @@
-#Import libraries for calibration curve
+#Import library for calibration curve
 library(ggplot2)
-library(cluster)
 
 # Define function that converts HEX color to grayscale intensity
 hex_to_grayscale <- function(hex) {col <- col2rgb(hex)
