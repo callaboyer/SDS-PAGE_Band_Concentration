@@ -1,7 +1,7 @@
 # Problem
 Quantitative size analysis of nucleic acids or proteins often requires precise concentration measurements. SDS-PAGE is an electrophoretic separation method that sorts a heterogenous nucleic acid or protein mixture based on size. However, unlike orthogonal, quantitative methods like chromatography, SDS-PAGE is a semi-quantitative method that can't measure concentration directly. In molecular biology labs where chromatographic equipment is unavailable, SDS-PAGE may be a versatile option to obtain separation data.
 
-## SDS-PAGE Backgronud
+## SDS-PAGE Background
 In SDS-PAGE, samples are usually prepared using a series of enzymatic treatments and then separated by molecular weight using an electric current on a gel matrix. After staining, the molecular weight of each separated species, as indicated by a band, can be imaged on an gel imaging instrument and processed using an imaging software and the position of a known molecular weight ladder. While the molecular weight ladder can estimate a sample's molecular weight based on vertical position on the gel, I always thought it'd be useful if analyte concentration could be obtained from band intensity to calculate the approximate sample composition.
 
 # Solution
